@@ -1,3 +1,10 @@
-print "Hello World"
+print("Hello World")
 
-print "bye"
+
+print("bye")
+
+
+print("something new here? nope no nothing")
+
+
+# LOL
